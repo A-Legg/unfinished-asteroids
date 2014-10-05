@@ -8,6 +8,6 @@ Here is a spritesheet to get you hyped!
 
 <img src="http://i.imgur.com/XCCzd6f.png">
 
-If you are fancy working with us - pick a first task from the list to the right.
+If you are fancy working with us - pick the first task from the list to the right.
 
 Cheers!
