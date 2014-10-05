@@ -1,8 +1,6 @@
-> Hi,
+> Hi, Mike here
 
-> Mike there - I have a friendly request...
-
-> I have left some nasty comments in `script/Engine/Collision.js` - the function there is also obsolete - could you do me a favor and remove the stuff before I get into troubles :) ?
+> I have left some nasty comments and some obsolete code in `script/Engine/Collision.js` - would you mind removing it :) ?
 
 > Thanks
 
