@@ -15,6 +15,6 @@ I have asked Mike to give you some advices and this is his reply:
 Again [fill up an issue](https://github.com/rezoner/unfinished-asteroids/issues) if you run into problems
 
 Good luck!
---
+\-\-
 Joshua Hal
 Producer
