@@ -8,6 +8,6 @@ Here are the requirements:
 * It's a pixelart game so we don't want smoothing and antialising
 * The game should scale to fill up the whole window
 
-I have contacted Mike and here are some of his tips:
+I have asked Mike to give you any tips on that and this is his reply: 
 
 > You can find the main file in `script/App.js` - we are using playground.js and you should be able to figure out what to do from [their docs on scaling](http://canvasquery.com/playground-scaling).
