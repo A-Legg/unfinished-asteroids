@@ -3,3 +3,4 @@
 3. [Chapter 3 - Movement error](https://github.com/rezoner/unfinished-asteroids/wiki/Chapter-3,-Movement-error)
 4. [Chapter 4 - Mike](https://github.com/rezoner/unfinished-asteroids/wiki/Chapter-4,-Mike)
 5. [Chapter 5 - Bullets](https://github.com/rezoner/unfinished-asteroids/wiki/Chapter-5,-Bullets)
+5. [Chapter 6](https://github.com/rezoner/unfinished-asteroids/wiki/Chapter-6)
