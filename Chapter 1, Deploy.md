@@ -1,4 +1,4 @@
-Glad you have decided to join the team.
+Glad you have decided to join the team. My name is Joshua Hal and I am a producer in this company. 
 
 The game has to run in a browser - so Mike has started to write it in javascript/html5 stack.
 
@@ -11,3 +11,5 @@ When you upload the game where it should be - just navigate to `/www` folder thr
 Take your time... but please remember that we are quite near the deadline.
 
 If you have questions just [post some issue](https://github.com/rezoner/unfinished-asteroids/issues)
+
+- Joshua Hal
