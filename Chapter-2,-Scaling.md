@@ -10,4 +10,4 @@ Here are the requirements:
 
 I have contacted Mike and here are some of his tips:
 
-> You can find the main file in `script/App.js` - we are using playground.js and you should be able to figure out what to do out of [their docs on scaling](http://canvasquery.com/playground-scaling).
+> You can find the main file in `script/App.js` - we are using playground.js and you should be able to figure out what to do from [their docs on scaling](http://canvasquery.com/playground-scaling).
