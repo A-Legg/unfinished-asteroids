@@ -12,4 +12,8 @@ Take your time... but please remember that we are quite near the deadline.
 
 If you have questions just [post some issue](https://github.com/rezoner/unfinished-asteroids/issues)
 
+\-\-
+
 Joshua Hal
+
+Producer
