@@ -4,4 +4,10 @@ You can turn left and right - using arrows - however pressing left will cause th
 
 > I am pretty sure it is some dumb typo. Check the bottom of `script/App/Game.js` and look for keyboard bindings. In case you don't understand what's going on - [here are the docs](http://canvasquery.com/playground-keyboard)
 
-Well, I count on you  :+1:  
+Well, I count on you  :+1:
+
+\-\-
+
+Joshua Hal
+
+Producer
