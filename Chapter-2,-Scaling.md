@@ -5,7 +5,7 @@ You have probably noticed that the game is running in a small window which is qu
 Here are the requirements:
 
 * Desired resolution 640x480
-* It's a pixelart game so we don't want smoothing and antialising
+* It's a pixelart game so we don't want smoothing or antialising
 * The game should scale to fill up the whole window
 
 I have asked Mike to give you some advices and this is his reply: 
