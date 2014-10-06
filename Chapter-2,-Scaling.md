@@ -1,4 +1,4 @@
-Have the setup gone well? 
+Has the setup gone well? 
 
 You have probably noticed that the game is running in a small window which is quite not acceptable.
 
