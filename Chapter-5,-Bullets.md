@@ -1,4 +1,4 @@
-I am really glad we have hired you. Everything goes as expected.
+I am really glad we have hired you. Everything is going as expected.
 
 To the point.
 
