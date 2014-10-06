@@ -1,7 +1,7 @@
 Glad you have decided to join the team. My name is Joshua Hal and I am a producer in this company
 The game has to run in a browser - so Mike has started to write it in javascript/html5 stack.
 
-[:arrow_down: Download](https://github.com/rezoner/unfinished-asteroids/archive/master.zip) or [clone](https://github.com/rezoner/unfinished-asteroids) the project and put it on your webserver.
+[Download](https://github.com/rezoner/unfinished-asteroids/archive/master.zip) or [Clone](https://github.com/rezoner/unfinished-asteroids) the project and put it on your webserver.
 
 Or you can just run `index.html` if you are not familiar with web hosting. 
 
