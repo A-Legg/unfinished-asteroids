@@ -1,6 +1,6 @@
 > Hi, Mike here
 
-> I have left some nasty comments and some obsolete code in `script/Engine/Collision.js` - would you mind removing it :) ?
+> I have left some nasty comments and obsolete code in `script/Engine/Collision.js` - would you mind removing it :) ?
 
 > Thanks
 
