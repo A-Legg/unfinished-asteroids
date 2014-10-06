@@ -1,4 +1,4 @@
-:mailbox: 
+:email: 
 
 > Hi, Mike here
 
