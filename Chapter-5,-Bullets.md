@@ -7,7 +7,7 @@ Could you please replace them with a proper graphics? Maybe this will help you:
 
 :email: 
 
-> `Entities/Bullet.js` is the file. The spritesheet with bullet graphics can be found in `images/spritesheet.png`.
+> `Entities/Bullet.js` is the file. The spritesheet with bullet graphics can be found in `images/spritesheet.png`. [Sprite Cow](http://www.spritecow.com/) can make it less tedious to find specific sprite coordinates for the bullet graphics.
 
 > This game will have to support two players at a later stage - you can get a bullet team accessing `this.team` (0 blue, 1 red). I already have similar thing in `Entities/Player.js` - except bullets are just balls so you don't have to rotate them.
 
