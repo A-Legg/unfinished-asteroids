@@ -1,6 +1,6 @@
 Great - now that the project looks like it should we can get to this frustrating bug.
 
-You can turn left and right - using arrows - however pressing left will cause the ship to rotate forever. Here are Mike's thoughts on this:
+You can turn left and right - using arrows - however pressing right will cause the ship to rotate forever. Here are Mike's thoughts on this:
 
 :email: 
 
